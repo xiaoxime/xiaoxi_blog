@@ -1,8 +1,9 @@
-baseurl: https://example.com
+baseurl: "/"
 languageCode: zh-ch
 theme: hugo-theme-stack
 paginate: 5
 title: 溪虚
+publishDir: "docs"
 copyright: .
 
 # Theme i18n support
