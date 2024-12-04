@@ -64,7 +64,7 @@ params:
 
     sidebar:
         # emoji: 🍥
-        emoji: 🤬
+        # emoji: 🤬
         subtitle: 江动月移石，溪虚云傍花。
         avatar:
             enabled: true
